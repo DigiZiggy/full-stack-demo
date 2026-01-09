@@ -25,7 +25,7 @@ Docker Desktop is up and running.
 
 ## Build and verify the backend project
 
-- go to server root: ```cd fullstack-project/demo-api```
+- go to server root: ```cd full-stack-demo/demo-api```
 - build & run tests: ```mvn clean install```
 
 ## Run the server
@@ -38,7 +38,7 @@ $ mvn spring-boot:run
 
 ## Install frontend project dependencies
 
-- go to client root: ```cd fullstack-project/client```
+- go to client root: ```cd full-stack-demo/client```
 - install dependencies: ```npm install```
 
 ## Now you can run the client
