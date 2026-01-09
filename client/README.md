@@ -12,7 +12,7 @@ Hi! In this project I created a minimal setup for a react project with typescrip
 
 ## Installation
 
-- go to project root: ```cd fullstack-project/client```
+- go to project root: ```cd full-stack-demo/client```
 - install dependencies: ```npm install```
 
 ---
